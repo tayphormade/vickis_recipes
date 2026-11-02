@@ -363,6 +363,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍨 [Ice Cream/Sorbet for the Ninja Creami](ice-cream/ninja-creami-ice-cream-and-sorbet.md)
 - 🍨 [No-Churn Blackberry Ice Cream](ice-cream/no-churn-blackberry-ice-cream.md)
 - 🍨 [Pineapple Sorbet](ice-cream/pineapple-sorbet.md)
+- 🍨 [Poor Man's Ice Cream](ice-cream/poor-mans-ice-cream.md)
 
 ## Fruit desserts
 
