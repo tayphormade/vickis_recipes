@@ -302,6 +302,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🧁 [Costco (Kirkland) Blueberry Muffins](muffins/costco-kirkland-blueberry-muffins.md)
 - 🧁 [Healthy Blueberry Muffins](muffins/healthy-blueberry-muffins.md)
 - 🧁 [Lemon Poppy Seed Muffins](muffins/lemon-poppy-seed-muffins.md)
+- 🧁 [Lemon-Blueberry Muffins](muffins/lemon-blueberry-muffins.md)
 
 ## Fruit desserts
 
