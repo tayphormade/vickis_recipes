@@ -258,6 +258,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍓 [Fresh Fruit Tart With Almond Press-In Crust](tarts/fresh-fruit-tart-almond-press-in-crust.md)
 - 🍓 [Olive Garden Warm Apple Crostata](tarts/olive-garden-warm-apple-crostata.md)
 - 🍓 [Pear Almond Tart](tarts/pear-almond-tart.md)
+- 🍓 [Semmeltårta](tarts/semmeltarta.md)
 
 ## Pastries
 
