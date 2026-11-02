@@ -340,6 +340,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍬 [Easiest Peanut Butter Fudge](candy/easiest-peanut-butter-fudge.md)
 - 🍬 [Easy Old-Fashioned Homemade Marshmallows](candy/easy-old-fashioned-homemade-marshmallows.md)
 - 🍬 [Fruit Gummies](candy/fruit-gummies.md)
+- 🍬 [Fruit Jellies Without Gelatin](candy/fruit-jellies-without-gelatin.md)
 
 ## Fruit desserts
 
