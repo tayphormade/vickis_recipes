@@ -342,6 +342,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍬 [Fruit Gummies](candy/fruit-gummies.md)
 - 🍬 [Fruit Jellies Without Gelatin](candy/fruit-jellies-without-gelatin.md)
 - 🍬 [Grandma's Old Fashion Fudge](candy/grandmas-old-fashion-fudge.md)
+- 🍬 [Haribo Gold-Bears Gummy Candy Hack](candy/haribo-gold-bears-gummy-candy.md)
 
 ## Fruit desserts
 
