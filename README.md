@@ -314,6 +314,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🫓 [Banana Bread Scones with Brown Sugar Glaze](scones/banana-bread-scones-with-brown-sugar-glaze.md)
 - 🫓 [Classic Scones](scones/classic-scones.md)
 - 🫓 [Cranberry Orange Scones (Starbucks Copycat)](scones/cranberry-orange-scones.md)
+- 🫓 [Raspberry-White Chocolate Scones](scones/raspberry-white-chocolate-scones.md)
 
 ## Fruit desserts
 
