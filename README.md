@@ -370,6 +370,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍮 [Caramel Chocolate Trifle](puddings/caramel-chocolate-trifle.md)
 - 🍮 [Chocolate Coconut Chia Seed Pudding](puddings/chocolate-coconut-chia-seed-pudding.md)
 - 🍮 [Chocolate Instant No-Cook Dry Pudding Mix (Add Water)](puddings/chocolate-instant-no-cook-dry-pudding-mix.md)
+- 🍮 [Creamy Rice Pudding](puddings/creamy-rice-pudding.md)
 
 ## Fruit desserts
 
