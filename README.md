@@ -351,6 +351,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍬 [Marshmallows (America's Test Kitchen)](candy/marshmallows-americas-test-kitchen.md)
 - 🍬 [Orange Jelly Candy](candy/orange-jelly-candy.md)
 - 🍬 [Orange Peel Candies (Only 2 Ingredients)](candy/orange-peel-candies-only-2-ingredients.md)
+- 🍬 [Salted Caramel Sauce](candy/salted-caramel-sauce.md)
 
 ## Fruit desserts
 
