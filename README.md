@@ -214,6 +214,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🎂 [Peach Cobbler Cupcakes](cakes/peach-cobbler-cupcakes.md)
 - 🎂 [Peachberry Buckle](cakes/peachberry-buckle.md)
 - 🎂 [Pumpkin Pie Dump Cake](cakes/pumpkin-pie-dump-cake.md)
+- 🎂 [Rhubarb Cake](cakes/rhubarb-cake.md)
 
 ## Cheesecakes
 
