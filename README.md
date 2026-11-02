@@ -205,6 +205,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🎂 [Fresh Strawberry Cake](cakes/fresh-strawberry-cake.md)
 - 🎂 [Gluten Free Hostess Style Cupcakes](cakes/gluten-free-hostess-style-cupcakes.md)
 - 🎂 [Gluten, Egg, and Dairy-Free Chocolate Cake](cakes/gluten-egg-and-dairy-free-chocolate-cake.md)
+- 🎂 [Hostess Mint Chocolate CupCakes](cakes/hostess-mint-chocolate-cupcakes.md)
 - 🎂 [Peach Cobbler Cupcakes](cakes/peach-cobbler-cupcakes.md)
 - 🎂 [Pumpkin Pie Dump Cake](cakes/pumpkin-pie-dump-cake.md)
 
