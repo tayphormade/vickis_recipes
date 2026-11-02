@@ -22,38 +22,31 @@ source_url: "https://topsecretrecipes.com/Top-Secret-Recipes/Copycat-Restaurant-
 
 ### 🥣 Soup
 
-#### 🥬 Vegetables & aromatics
-
-- 🧅 1 cup sliced white onion (about half a medium onion)
-- 🥕 1 cup sliced carrots (about 3 medium)
-- 🌿 ¾ cup sliced celery (about 2 medium stalks)
-- 🥬 ½ cup chopped green cabbage
-- 🧄 1 tbsp minced garlic
-
-#### 🍲 Broth & water
-
-- 🍲 6 cups chicken broth
-- 💧 3 cups water
-- 🥄 2 tsp Knorr large chicken bouillon powder (or 2 regular bouillon cubes)
-
-#### 🌿 Herbs & spices
-
-- 🧅 ½ tsp onion powder
-- ⚫ ½ tsp ground black pepper
-- 🌿 ½ tsp dried parsley
-- 🍬 ½ tsp granulated sugar
-- 🧂 ¼ tsp salt
-- 🌿 ¼ tsp dried thyme
-- 🌿 ¼ tsp dried tarragon
-- 🟡 ⅛ tsp ground turmeric
-
-#### 🧈 Fat, thickeners & rice
-
-- 🧈 2 tbsp unsalted butter
-- 🥄 ⅓ cup cornstarch
-- 🌾 2 tbsp all-purpose flour
-- 🥛 1½ cups half-and-half
-- 🍚 1 (4.3 oz) box Rice-A-Roni Long Grain & Wild Rice (flavor packet not used)
+- 🥬 **Vegetables & aromatics**
+  - 🧅 1 cup sliced white onion (about half a medium onion)
+  - 🥕 1 cup sliced carrots (about 3 medium)
+  - 🌿 ¾ cup sliced celery (about 2 medium stalks)
+  - 🥬 ½ cup chopped green cabbage
+  - 🧄 1 tbsp minced garlic
+- 🍲 **Broth & water**
+  - 🍲 6 cups chicken broth
+  - 💧 3 cups water
+  - 🥄 2 tsp Knorr large chicken bouillon powder (or 2 regular bouillon cubes)
+- 🌿 **Herbs & spices**
+  - 🧅 ½ tsp onion powder
+  - ⚫ ½ tsp ground black pepper
+  - 🌿 ½ tsp dried parsley
+  - 🍬 ½ tsp granulated sugar
+  - 🧂 ¼ tsp salt
+  - 🌿 ¼ tsp dried thyme
+  - 🌿 ¼ tsp dried tarragon
+  - 🟡 ⅛ tsp ground turmeric
+- 🧈 **Fat, thickeners & rice**
+  - 🧈 2 tbsp unsalted butter
+  - 🥄 ⅓ cup cornstarch
+  - 🌾 2 tbsp all-purpose flour
+  - 🥛 1½ cups half-and-half
+  - 🍚 1 (4.3 oz) box Rice-A-Roni Long Grain & Wild Rice (flavor packet not used)
 
 ---
 
