@@ -360,6 +360,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍨 [Blue Moon Ice Cream](ice-cream/blue-moon-ice-cream.md)
 - 🍨 [Concord Grape Sorbet](ice-cream/concord-grape-sorbet.md)
 - 🍨 [Dairy Queen Ice Cream](ice-cream/dairy-queen-ice-cream.md)
+- 🍨 [Ice Cream/Sorbet for the Ninja Creami](ice-cream/ninja-creami-ice-cream-and-sorbet.md)
 
 ## Fruit desserts
 
