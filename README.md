@@ -138,6 +138,7 @@ Recipes converted to Markdown from the family recipe collection.
 ## Tarts
 
 - 🍓 [Easy Galette des Rois (French King Cake)](tarts/easy-galette-des-rois.md)
+- 🍓 [Pear Almond Tart](tarts/pear-almond-tart.md)
 
 ## Pastries
 
