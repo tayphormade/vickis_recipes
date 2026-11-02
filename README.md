@@ -46,3 +46,4 @@ Recipes converted to Markdown from the family recipe collection.
 
 - 🍪 [Almond Macaroons](cookies/almond-macaroons.md)
 - 🍪 [Chocolate Brownie Cookies](cookies/chocolate-brownie-cookies.md)
+- 🍪 [Coconut Shortbread Cookies](cookies/coconut-shortbread-cookies.md)
