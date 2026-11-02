@@ -291,6 +291,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍩 [Costas French Market Doughnuts (Beignets)](donuts/costas-french-market-doughnuts-beignets.md)
 - 🍩 [Fluffiest Homemade Donuts](donuts/fluffiest-homemade-donuts.md)
 - 🍩 [Incredible Gluten Free Yeast Donuts](donuts/incredible-gluten-free-yeast-donuts.md)
+- 🍩 [My Mom's Raised Doughnuts](donuts/my-moms-raised-doughnuts.md)
 
 ## Fruit desserts
 
