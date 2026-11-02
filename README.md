@@ -91,3 +91,4 @@ Recipes converted to Markdown from the family recipe collection.
 
 - 🫙 [Canned Concord Grape Pie Filling](canning/concord-grape-pie-filling.md)
 - 🫙 [Canning Grape Pie Filling](canning/grape-pie-filling.md)
+- 🫙 [Concord Grape Puree](canning/grape-puree.md)
