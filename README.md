@@ -147,6 +147,7 @@ Recipes converted to Markdown from the family recipe collection.
 ## Fruit desserts
 
 - 🍑 [Pumpkin Pecan Cobbler](fruit-desserts/pumpkin-pecan-cobbler.md)
+- 🍑 [Pumpkin Pie Leather](fruit-desserts/pumpkin-pie-leather.md)
 
 ## Canning
 
