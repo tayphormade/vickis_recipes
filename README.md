@@ -219,6 +219,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🎂 [Texas Sheet Cake](cakes/texas-sheet-cake.md)
 - 🎂 [Twinkling Good Vanilla Snack Cakes](cakes/twinkling-good-vanilla-snack-cakes.md)
 - 🎂 [Vegan Chocolate Cake](cakes/vegan-chocolate-cake.md)
+- 🎂 [Wacky Cake](cakes/wacky-cake.md)
 
 ## Cheesecakes
 
