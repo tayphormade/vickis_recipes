@@ -95,3 +95,4 @@ Recipes converted to Markdown from the family recipe collection.
 - 🫙 [Fruit Pie Filling (to Can)](canning/fruit-pie-filling.md)
 - 🫙 [Homemade Cherry Pie Filling](canning/cherry-pie-filling.md)
 - 🫙 [Strawberry Pie Filling](canning/strawberry-pie-filling.md)
+- 🫙 [Vanilla Bean Pear Pie Filling](canning/vanilla-bean-pear-pie-filling.md)
