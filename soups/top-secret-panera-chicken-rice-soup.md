@@ -70,11 +70,11 @@ source_url: "https://topsecretrecipes.com/Top-Secret-Recipes/Copycat-Restaurant-
 
 ## 📝 Notes
 
-Other recipes that claim to clone this soup don't get the flavor right. The long grain and wild rice mix many of them use is a good way to get the right amount of rice, but don't use its flavor packet. This recipe makes a better seasoning for the soup. Panera's transparent ingredient policy revealed a couple of surprises, including cabbage.
-
-**Tidbits**
-
-- **Bouillon cubes:** You can substitute them for the powdered bouillon. Heat the reserved water in the microwave until boiling, then dissolve the cube(s) in it before adding it in step 3. Use 2 standard cubes, or 1 Knorr cube (double-size), in place of the 2 teaspoons of powder.
-- **The leftover flavor packet:** Instead of tossing it, use it to season plain rice. Bring 1⅔ cups water and 1 tbsp butter to a boil in a medium saucepan over high heat. Stir in ⅔ cup white rice (jasmine works well) and the flavor packet. Reduce the heat and simmer 20–25 minutes, until the water is absorbed.
+- 🚫 Other recipes that claim to clone this soup don't get the flavor right.
+- 🌾 The long grain and wild rice mix many of them use is a good way to get the right amount of rice, but don't use its flavor packet.
+- 🧂 This recipe makes a better seasoning for the soup.
+- 🥬 Panera's transparent ingredient policy revealed a couple of surprises, including cabbage.
+- 🥄 Bouillon cubes: You can substitute them for the powdered bouillon. Heat the reserved water in the microwave until boiling, then dissolve the cube(s) in it before adding it in step 3. Use 2 standard cubes, or 1 Knorr cube (double-size), in place of the 2 teaspoons of powder.
+- 🍚 Leftover flavor packet: Instead of tossing it, use it to season plain rice. Bring 1⅔ cups water and 1 tbsp butter to a boil in a medium saucepan over high heat. Stir in ⅔ cup white rice (jasmine works well) and the flavor packet. Reduce the heat and simmer 20–25 minutes, until the water is absorbed.
 
 *By Todd Wilbur, Top Secret Recipes. © 2020 Top Secret Recipes. All rights reserved. www.TopSecretRecipes.com*
