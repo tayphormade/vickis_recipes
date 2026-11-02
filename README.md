@@ -45,3 +45,4 @@ Recipes converted to Markdown from the family recipe collection.
 ## Cookies
 
 - 🍪 [Almond Macaroons](cookies/almond-macaroons.md)
+- 🍪 [Chocolate Brownie Cookies](cookies/chocolate-brownie-cookies.md)
