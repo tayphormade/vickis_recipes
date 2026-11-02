@@ -365,6 +365,10 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍨 [Pineapple Sorbet](ice-cream/pineapple-sorbet.md)
 - 🍨 [Poor Man's Ice Cream](ice-cream/poor-mans-ice-cream.md)
 
+## Puddings
+
+- 🍮 [Caramel Chocolate Trifle](puddings/caramel-chocolate-trifle.md)
+
 ## Fruit desserts
 
 - 🍑 [Pumpkin Pecan Cobbler](fruit-desserts/pumpkin-pecan-cobbler.md)
