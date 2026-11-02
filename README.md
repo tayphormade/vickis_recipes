@@ -60,3 +60,4 @@ Recipes converted to Markdown from the family recipe collection.
 ## Bars
 
 - 🍯 [Apple-Date Bars](bars/apple-date-bars.md)
+- 🍯 [Pecan Pie Bars](bars/pecan-pie-bars.md)
