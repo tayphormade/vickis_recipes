@@ -52,3 +52,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍪 [Green Mint Cookies](cookies/green-mint-cookies.md)
 - 🍪 [Keto Shortbread Cookies](cookies/keto-shortbread-cookies.md)
 - 🍪 [Snickerdoodles (Gluten Free)](cookies/snickerdoodles-gluten-free.md)
+
+## Brownies
+
+- 🍫 [Gluten-Free Brownies](brownies/gluten-free-brownies.md)
