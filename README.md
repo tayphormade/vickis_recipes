@@ -283,6 +283,10 @@ Recipes converted to Markdown from the family recipe collection.
 - 🥐 [Pain au Chocolat](croissants/pain-au-chocolat.md)
 - 🥐 [Pain aux Raisins](croissants/pain-aux-raisins.md)
 
+## Donuts
+
+- 🍩 [Apple Fritters](donuts/apple-fritters.md)
+
 ## Fruit desserts
 
 - 🍑 [Pumpkin Pecan Cobbler](fruit-desserts/pumpkin-pecan-cobbler.md)
