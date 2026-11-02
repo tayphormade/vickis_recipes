@@ -41,3 +41,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🥘 [Super-Delicious Zuppa Toscana](soups/super-delicious-zuppa-toscana.md)
 - 🥥 [Thai-Style Chicken & Veggie Soup](soups/thai-style-chicken-veggie-soup.md)
 - 🍅 [Tomato Bisque](soups/tomato-bisque.md)
+
+## Cookies
+
+- 🍪 [Almond Macaroons](cookies/almond-macaroons.md)
