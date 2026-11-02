@@ -339,6 +339,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍬 [Cream Cheese Mints](candy/cream-cheese-mints.md)
 - 🍬 [Easiest Peanut Butter Fudge](candy/easiest-peanut-butter-fudge.md)
 - 🍬 [Easy Old-Fashioned Homemade Marshmallows](candy/easy-old-fashioned-homemade-marshmallows.md)
+- 🍬 [Fruit Gummies](candy/fruit-gummies.md)
 
 ## Fruit desserts
 
