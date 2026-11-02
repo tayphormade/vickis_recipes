@@ -169,6 +169,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍪 [Flourless Chocolate Cookies](cookies/flourless-chocolate-cookies.md)
 - 🍪 [Green Mint Cookies](cookies/green-mint-cookies.md)
 - 🍪 [Hawaiian Coconut Shortbread Cookies](cookies/hawaiian-coconut-shortbread-cookies.md)
+- 🍪 [Italian Fig Cookies (Cuccidati)](cookies/italian-fig-cookies-cuccidati.md)
 - 🍪 [Keto Shortbread Cookies](cookies/keto-shortbread-cookies.md)
 - 🍪 [Snickerdoodles (Gluten Free)](cookies/snickerdoodles-gluten-free.md)
 
