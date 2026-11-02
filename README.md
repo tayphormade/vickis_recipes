@@ -388,6 +388,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍑 [Harvest Pear Crisp](fruit-desserts/harvest-pear-crisp.md)
 - 🍑 [Pumpkin Pecan Cobbler](fruit-desserts/pumpkin-pecan-cobbler.md)
 - 🍑 [Pumpkin Pie Leather](fruit-desserts/pumpkin-pie-leather.md)
+- 🍑 [Stone Fruit Clafoutis](fruit-desserts/stone-fruit-clafoutis.md)
 
 ## Canning
 
