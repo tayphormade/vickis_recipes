@@ -267,6 +267,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍰 [Cinnabon Cinnamon Rolls](pastries/cinnabon-cinnamon-rolls.md)
 - 🍰 [Cinnamon Rolls](pastries/cinnamon-rolls.md)
 - 🍰 [Cornmeal Brown Butter Cinnamon Rolls](pastries/cornmeal-brown-butter-cinnamon-rolls.md)
+- 🍰 [Extra-Fluffy Cinnamon Rolls](pastries/extra-fluffy-cinnamon-rolls.md)
 - 🍰 [Puff Pastry in 5 Minutes](pastries/puff-pastry-in-5-minutes.md)
 
 ## Fruit desserts
