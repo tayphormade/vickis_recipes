@@ -274,6 +274,10 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍰 [Sourdough Brioche Cinnamon Rolls](pastries/sourdough-brioche-cinnamon-rolls.md)
 - 🍰 [The Ultimate Gluten Free Cinnamon Rolls](pastries/the-ultimate-gluten-free-cinnamon-rolls.md)
 
+## Croissants
+
+- 🥐 [Almond Croissants Recipe (French Bakery Style)](croissants/almond-croissants.md)
+
 ## Fruit desserts
 
 - 🍑 [Pumpkin Pecan Cobbler](fruit-desserts/pumpkin-pecan-cobbler.md)
