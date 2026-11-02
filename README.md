@@ -75,3 +75,4 @@ Recipes converted to Markdown from the family recipe collection.
 ## Pies
 
 - 🥧 [Cheaters Lemonade Pie](pies/cheaters-lemonade-pie.md)
+- 🥧 [Hula Pie](pies/hula-pie.md)
