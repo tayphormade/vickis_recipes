@@ -344,6 +344,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍬 [Grandma's Old Fashion Fudge](candy/grandmas-old-fashion-fudge.md)
 - 🍬 [Haribo Gold-Bears Gummy Candy Hack](candy/haribo-gold-bears-gummy-candy.md)
 - 🍬 [Homemade Altoids](candy/homemade-altoids.md)
+- 🍬 [Homemade Marshmallow Spread](candy/homemade-marshmallow-spread.md)
 
 ## Fruit desserts
 
