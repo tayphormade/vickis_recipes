@@ -271,6 +271,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍰 [Gail's Bakery Hot Cross Buns](pastries/gails-bakery-hot-cross-buns.md)
 - 🍰 [Hot Cross Buns](pastries/hot-cross-buns.md)
 - 🍰 [Puff Pastry in 5 Minutes](pastries/puff-pastry-in-5-minutes.md)
+- 🍰 [Sourdough Brioche Cinnamon Rolls](pastries/sourdough-brioche-cinnamon-rolls.md)
 
 ## Fruit desserts
 
