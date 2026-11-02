@@ -326,6 +326,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍯 [Dairy-Free Chocolate Frosting](frostings/dairy-free-chocolate-frosting.md)
 - 🍯 [Russian Buttercream Frosting (Vanilla Condensed Milk Buttercream)](frostings/russian-buttercream-frosting.md)
 - 🍯 [Simple Cookie Glaze](frostings/simple-cookie-glaze-king-arthur.md)
+- 🍯 [Swiss Buttercream](frostings/swiss-buttercream.md)
 
 ## Fruit desserts
 
