@@ -346,6 +346,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍬 [Homemade Altoids](candy/homemade-altoids.md)
 - 🍬 [Homemade Marshmallow Spread](candy/homemade-marshmallow-spread.md)
 - 🍬 [Homemade Marshmallows](candy/homemade-marshmallows-king-arthur.md)
+- 🍬 [Loretta Lynn's Peanut Butter Fudge](candy/loretta-lynns-peanut-butter-fudge.md)
 
 ## Fruit desserts
 
