@@ -215,6 +215,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🎂 [Peachberry Buckle](cakes/peachberry-buckle.md)
 - 🎂 [Pumpkin Pie Dump Cake](cakes/pumpkin-pie-dump-cake.md)
 - 🎂 [Rhubarb Cake](cakes/rhubarb-cake.md)
+- 🎂 [Super Easy King Cake (WOW GOOD!)](cakes/super-easy-king-cake.md)
 
 ## Cheesecakes
 
