@@ -350,6 +350,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍬 [Maple Syrup Candy](candy/maple-syrup-candy.md)
 - 🍬 [Marshmallows (America's Test Kitchen)](candy/marshmallows-americas-test-kitchen.md)
 - 🍬 [Orange Jelly Candy](candy/orange-jelly-candy.md)
+- 🍬 [Orange Peel Candies (Only 2 Ingredients)](candy/orange-peel-candies-only-2-ingredients.md)
 
 ## Fruit desserts
 
