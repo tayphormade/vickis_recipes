@@ -382,6 +382,7 @@ Recipes converted to Markdown from the family recipe collection.
 
 ## Fruit desserts
 
+- 🍑 [Apple Oatmeal Crisp](fruit-desserts/apple-oatmeal-crisp.md)
 - 🍑 [Pumpkin Pecan Cobbler](fruit-desserts/pumpkin-pecan-cobbler.md)
 - 🍑 [Pumpkin Pie Leather](fruit-desserts/pumpkin-pie-leather.md)
 
