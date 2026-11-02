@@ -292,6 +292,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍩 [Fluffiest Homemade Donuts](donuts/fluffiest-homemade-donuts.md)
 - 🍩 [Incredible Gluten Free Yeast Donuts](donuts/incredible-gluten-free-yeast-donuts.md)
 - 🍩 [My Mom's Raised Doughnuts](donuts/my-moms-raised-doughnuts.md)
+- 🍩 [Pumpkin Churro Doughnuts](donuts/pumpkin-churro-doughnuts.md)
 
 ## Fruit desserts
 
