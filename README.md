@@ -316,6 +316,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🫓 [Cranberry Orange Scones (Starbucks Copycat)](scones/cranberry-orange-scones.md)
 - 🫓 [Raspberry-White Chocolate Scones](scones/raspberry-white-chocolate-scones.md)
 - 🫓 [Starbucks Pumpkin Scones](scones/starbucks-pumpkin-scones.md)
+- 🫓 [Tart Cherry-and-Vanilla Scones](scones/tart-cherry-and-vanilla-scones.md)
 
 ## Fruit desserts
 
