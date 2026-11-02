@@ -358,6 +358,7 @@ Recipes converted to Markdown from the family recipe collection.
 ## Ice cream
 
 - 🍨 [Blue Moon Ice Cream](ice-cream/blue-moon-ice-cream.md)
+- 🍨 [Concord Grape Sorbet](ice-cream/concord-grape-sorbet.md)
 
 ## Fruit desserts
 
