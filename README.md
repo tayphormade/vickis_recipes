@@ -180,6 +180,7 @@ Recipes converted to Markdown from the family recipe collection.
 ## Brownies
 
 - 🍫 [Gluten-Free Brownies](brownies/gluten-free-brownies.md)
+- 🍫 [Starbucks Peppermint Brownie](brownies/starbucks-peppermint-brownies.md)
 
 ## Bars
 
