@@ -376,6 +376,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍮 [Homemade Chocolate Pudding Mix](puddings/homemade-chocolate-pudding-mix.md)
 - 🍮 [Homemade Vanilla Pudding Mix](puddings/homemade-vanilla-pudding-mix.md)
 - 🍮 [Lemon Curd](puddings/lemon-curd.md)
+- 🍮 [No-Cook Instant Chocolate Pudding Mix](puddings/no-cook-instant-chocolate-pudding-mix.md)
 
 ## Fruit desserts
 
