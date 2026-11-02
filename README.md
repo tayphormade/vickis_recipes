@@ -94,3 +94,4 @@ Recipes converted to Markdown from the family recipe collection.
 - 🫙 [Concord Grape Puree](canning/grape-puree.md)
 - 🫙 [Fruit Pie Filling (to Can)](canning/fruit-pie-filling.md)
 - 🫙 [Homemade Cherry Pie Filling](canning/cherry-pie-filling.md)
+- 🫙 [Strawberry Pie Filling](canning/strawberry-pie-filling.md)
