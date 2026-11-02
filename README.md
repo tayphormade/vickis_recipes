@@ -287,6 +287,7 @@ Recipes converted to Markdown from the family recipe collection.
 
 - 🍩 [Apple Fritters](donuts/apple-fritters.md)
 - 🍩 [Basic Yeast Donuts](donuts/basic-yeast-donuts.md)
+- 🍩 [Cafe Du Monde Beignets Hack](donuts/cafe-du-monde-beignets-hack.md)
 
 ## Fruit desserts
 
