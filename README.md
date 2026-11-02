@@ -71,3 +71,7 @@ Recipes converted to Markdown from the family recipe collection.
 
 - 🧀 [Cheesecake Factory Pumpkin Pecan Cheesecake](cheesecakes/cheesecake-factory-pumpkin-pecan-cheesecake.md)
 - 🧀 [Cheesecake Pie (No Baking)](cheesecakes/cheesecake-pie-no-bake.md)
+
+## Pies
+
+- 🥧 [Cheaters Lemonade Pie](pies/cheaters-lemonade-pie.md)
