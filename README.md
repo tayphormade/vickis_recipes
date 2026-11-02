@@ -332,6 +332,7 @@ Recipes converted to Markdown from the family recipe collection.
 
 - 🍬 [Almond Paste](candy/almond-paste.md)
 - 🍬 [Alton Brown's Microwave Peanut Butter Fudge](candy/alton-browns-microwave-peanut-butter-fudge.md)
+- 🍬 [Caramels](candy/caramels.md)
 
 ## Fruit desserts
 
