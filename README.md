@@ -86,3 +86,7 @@ Recipes converted to Markdown from the family recipe collection.
 ## Fruit desserts
 
 - 🍑 [Pumpkin Pecan Cobbler](fruit-desserts/pumpkin-pecan-cobbler.md)
+
+## Canning
+
+- 🫙 [Canned Concord Grape Pie Filling](canning/concord-grape-pie-filling.md)
