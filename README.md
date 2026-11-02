@@ -171,6 +171,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍪 [Hawaiian Coconut Shortbread Cookies](cookies/hawaiian-coconut-shortbread-cookies.md)
 - 🍪 [Italian Fig Cookies (Cuccidati)](cookies/italian-fig-cookies-cuccidati.md)
 - 🍪 [Keto Shortbread Cookies](cookies/keto-shortbread-cookies.md)
+- 🍪 [Peppermint Meringue Cookie Recipe](cookies/peppermint-meringue-cookies.md)
 - 🍪 [Snickerdoodles (Gluten Free)](cookies/snickerdoodles-gluten-free.md)
 
 ## Brownies
