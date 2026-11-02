@@ -303,6 +303,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🧁 [Healthy Blueberry Muffins](muffins/healthy-blueberry-muffins.md)
 - 🧁 [Lemon Poppy Seed Muffins](muffins/lemon-poppy-seed-muffins.md)
 - 🧁 [Lemon-Blueberry Muffins](muffins/lemon-blueberry-muffins.md)
+- 🧁 [Morning Glory Muffins](muffins/morning-glory-muffins.md)
 
 ## Fruit desserts
 
