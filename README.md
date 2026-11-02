@@ -217,6 +217,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🎂 [Rhubarb Cake](cakes/rhubarb-cake.md)
 - 🎂 [Super Easy King Cake (WOW GOOD!)](cakes/super-easy-king-cake.md)
 - 🎂 [Texas Sheet Cake](cakes/texas-sheet-cake.md)
+- 🎂 [Twinkling Good Vanilla Snack Cakes](cakes/twinkling-good-vanilla-snack-cakes.md)
 
 ## Cheesecakes
 
