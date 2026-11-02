@@ -225,6 +225,7 @@ Recipes converted to Markdown from the family recipe collection.
 ## Cheesecakes
 
 - 🧀 [Benihana Mandarin Orange Cheesecake](cheesecakes/benihana-mandarin-orange-cheesecake.md)
+- 🧀 [Cheese Cake I](cheesecakes/cheese-cake-i.md)
 - 🧀 [Cheesecake Factory Pumpkin Pecan Cheesecake](cheesecakes/cheesecake-factory-pumpkin-pecan-cheesecake.md)
 - 🧀 [Cheesecake Pie (No Baking)](cheesecakes/cheesecake-pie-no-bake.md)
 
