@@ -345,6 +345,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍬 [Haribo Gold-Bears Gummy Candy Hack](candy/haribo-gold-bears-gummy-candy.md)
 - 🍬 [Homemade Altoids](candy/homemade-altoids.md)
 - 🍬 [Homemade Marshmallow Spread](candy/homemade-marshmallow-spread.md)
+- 🍬 [Homemade Marshmallows](candy/homemade-marshmallows-king-arthur.md)
 
 ## Fruit desserts
 
