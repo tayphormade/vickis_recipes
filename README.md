@@ -378,6 +378,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍮 [Lemon Curd](puddings/lemon-curd.md)
 - 🍮 [No-Cook Instant Chocolate Pudding Mix](puddings/no-cook-instant-chocolate-pudding-mix.md)
 - 🍮 [The Best Rice Pudding](puddings/the-best-rice-pudding.md)
+- 🍮 [Vanilla Pudding Mix Recipe](puddings/vanilla-pudding-mix-recipe.md)
 
 ## Fruit desserts
 
