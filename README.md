@@ -272,6 +272,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍰 [Hot Cross Buns](pastries/hot-cross-buns.md)
 - 🍰 [Puff Pastry in 5 Minutes](pastries/puff-pastry-in-5-minutes.md)
 - 🍰 [Sourdough Brioche Cinnamon Rolls](pastries/sourdough-brioche-cinnamon-rolls.md)
+- 🍰 [The Ultimate Gluten Free Cinnamon Rolls](pastries/the-ultimate-gluten-free-cinnamon-rolls.md)
 
 ## Fruit desserts
 
