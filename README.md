@@ -368,6 +368,7 @@ Recipes converted to Markdown from the family recipe collection.
 ## Puddings
 
 - 🍮 [Caramel Chocolate Trifle](puddings/caramel-chocolate-trifle.md)
+- 🍮 [Chocolate Coconut Chia Seed Pudding](puddings/chocolate-coconut-chia-seed-pudding.md)
 
 ## Fruit desserts
 
