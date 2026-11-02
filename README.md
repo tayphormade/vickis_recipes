@@ -277,6 +277,7 @@ Recipes converted to Markdown from the family recipe collection.
 ## Croissants
 
 - 🥐 [Almond Croissants Recipe (French Bakery Style)](croissants/almond-croissants.md)
+- 🥐 [Baker's Croissants](croissants/bakers-croissants.md)
 
 ## Fruit desserts
 
