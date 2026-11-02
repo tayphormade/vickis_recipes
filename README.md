@@ -82,3 +82,7 @@ Recipes converted to Markdown from the family recipe collection.
 ## Pastries
 
 - 🍰 [Puff Pastry in 5 Minutes](pastries/puff-pastry-in-5-minutes.md)
+
+## Fruit desserts
+
+- 🍑 [Pumpkin Pecan Cobbler](fruit-desserts/pumpkin-pecan-cobbler.md)
