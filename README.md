@@ -564,6 +564,7 @@ Recipes converted to Markdown from the family recipe collection.
 ## Pancakes and waffles
 
 - 🥞 [Classic Sourdough Pancakes or Waffles](pancakes-waffles/classic-sourdough-pancakes-or-waffles.md)
+- 🥞 [Fluffy Blueberry Pancakes](pancakes-waffles/fluffy-blueberry-pancakes.md)
 
 ## Frostings
 
