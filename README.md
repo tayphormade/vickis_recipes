@@ -355,6 +355,10 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍬 [See's Candies Cinnamon Lollypop](candy/sees-candies-cinnamon-lollypop.md)
 - 🍬 [Vegan Caramel](candy/vegan-caramel.md)
 
+## Ice cream
+
+- 🍨 [Blue Moon Ice Cream](ice-cream/blue-moon-ice-cream.md)
+
 ## Fruit desserts
 
 - 🍑 [Pumpkin Pecan Cobbler](fruit-desserts/pumpkin-pecan-cobbler.md)
