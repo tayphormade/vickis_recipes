@@ -13,14 +13,17 @@ Accuracy matters more than formatting. A wrong quantity can ruin a dish, so chec
 
 - **PDF:** Run `pdftotext`, then also render the pages with `pdftoppm` and read the images. Text extraction can silently drop fractions, digits, and words. For example, "½ cup" can become "1 cup" and "10–12 minutes" can become "0–2 minutes". The rendered page is the source of truth.
 - **Scanned PDF or image:** Read the rendered image directly. Use OCR only as a starting point, because it garbles fractions.
+- **Text in images:** Some PDFs store servings, times, or whole sections as images, so they're missing from `pdftotext` even when the rest extracts cleanly. Compare OCR of each rendered page against the extracted text, and read every page yourself.
 - **DOCX:** Convert with `pandoc -t gfm`, then unzip the file and look at everything in `word/media/`. Photos and screenshots may contain the actual ingredients and steps.
+- **Several versions:** If a recipe exists in more than one format, compare them and use the most complete one. Copies can differ.
 - **Unreadable values:** Don't guess. Ask the user, or mark the value as unknown in the notes.
 
 ## 2. Choose the location and name
 
-- Put the recipe in a lowercase, plural category folder such as `soups/`. Create a new folder only if no existing category fits.
-- Name the file in kebab-case after the dish, such as `panera-chicken-wild-rice-soup.md`.
-- Leave website and brand names out of new titles and filenames. Credit the source in the source line and notes instead.
+- Put the recipe in a lowercase category folder such as `soups/` or `chili/`. Create a new folder only if no existing category fits.
+- Name the file in kebab-case after the recipe's title, such as `panera-chicken-wild-rice-soup.md`.
+- Keep the recipe's original name, including any restaurant or person in it, such as Wendy's Chili or Chef John's Ham and Potato Soup, so it stays easy to find.
+- Leave out only the website or publisher it came from, such as Top Secret Recipes. Credit that in the source line and notes instead.
 
 ## 3. Write the file
 
@@ -102,6 +105,8 @@ source_url: "https://example.com/exact-recipe-page"
 
 - Use a bulleted list with an emoji on every bullet.
 - Keep tips, substitutions, variations, allergens, equipment, and warnings. Cut filler and marketing copy.
+- Write only what the source says. Don't add your own explanations or cooking advice.
+- Before noting that a recipe contradicts itself, check the math and the wording. If it really does, say so plainly.
 - Make sure step references match the final step numbers, and that each note refers to the correct ingredient or amount.
 
 ### Emojis
@@ -119,7 +124,7 @@ This repo is public.
 
 ## 5. Update the README
 
-Add a bullet under the category's `##` heading in `README.md`, creating the heading if needed. Use one emoji that fits the dish, and link to the file:
+Add a bullet under the category's `##` heading in `README.md`, in alphabetical order, creating the heading if needed. Use one emoji that fits the dish, and link to the file:
 
 ```markdown
 - 🥣 [Recipe Name](soups/recipe-name.md)

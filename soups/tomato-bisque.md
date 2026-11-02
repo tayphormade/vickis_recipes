@@ -14,28 +14,28 @@ title: "Tomato Bisque"
   - 🧅 1 small onion
   - 🌱 3 celery stalks, sliced
   - 🍅 1 (28 oz) can tomatoes, with liquid
-- 🌿 **Seasoning**
+- 🧺 **Seasoning**
   - 🍬 2½ tsp sugar
-  - 🌶️ ½ tsp paprika
-  - 🌿 ½ tsp dried basil
+  - 🟧 ½ tsp paprika
+  - 💚 ½ tsp dried basil
   - ⚫ ¼ tsp black pepper
   - 🧂 ½ tsp salt
-- 🥣 **Roux & liquid**
+- 🫗 **Roux & liquid**
   - 🛢️ 2 tbsp oil
   - 🌾 3 tbsp flour
-  - 🍲 2 cups water or stock
+  - 💧 2 cups water or stock
 
 ---
 
 ## 👩‍🍳 Steps
 
-1. 🥫 Place the onion, celery, tomatoes with liquid, sugar, paprika, basil, and pepper in a kettle, and simmer 15 minutes.
+1. 🧅 Place the onion, celery, tomatoes with liquid, sugar, paprika, basil, and pepper in a kettle, and simmer 15 minutes.
 2. 🥄 Puree the mixture in a blender until smooth, in 2 or more small batches, on low speed.
-3. 🧢 Hold the blender lid firmly while blending so the contents don't blow out the top.
-4. 🥣 Strain the soup if you want it perfectly smooth. Otherwise, leave it as is.
+3. 🥄 Hold the blender lid firmly while blending so the contents don't blow out the top.
+4. 🥄 Strain the soup if you want it perfectly smooth. Otherwise, leave it as is.
 5. 🛢️ In the original kettle, whisk the oil and flour together and cook 30 seconds.
-6. 🍲 Whisk in 2 cups of stock or water until smooth.
-7. 🥫 Stir in the blended tomato mixture and salt to taste, and simmer until slightly thickened, about 5 minutes.
+6. 💧 Whisk in 2 cups of stock or water until smooth.
+7. 🍅 Stir in the blended tomato mixture and salt to taste, and simmer until slightly thickened, about 5 minutes.
 
 ---
 

@@ -1,39 +1,39 @@
 ---
-title: "Creamy Ham and Potato Soup"
-source_url: "https://www.allrecipes.com/recipe/220127/"
+title: "Chef John's Ham and Potato Soup"
+source_url: "https://www.allrecipes.com/recipe/220127/chef-johns-ham-and-potato-soup/"
 ---
 
-# Creamy Ham and Potato Soup
+# Chef John's Ham and Potato Soup
 
-🔗 **Source:** [Allrecipes](https://www.allrecipes.com/recipe/220127/)
+🔗 **Source:** [Allrecipes](https://www.allrecipes.com/recipe/220127/chef-johns-ham-and-potato-soup/)
 
 - 🍽️ **Servings:** 4
 - ⏱️ **Prep:** 20 minutes
-- ♨️ **Cook:** 40 minutes
-- 🔥 **Calories:** 452 per serving
+- ⏲️ **Cook:** 40 minutes
+- 📊 **Calories:** 452 per serving
 
 ---
 
 ## 🛒 Ingredients
 
-- 🥔 **Potatoes & ham**
+- 🍖 **Potatoes & ham**
   - 🥔 1½ lb Yukon Gold potatoes, peeled and diced
-  - 🥓 8 oz smoked ham, diced
+  - 🐷 8 oz smoked ham, diced
 - 🥦 **Vegetables & aromatics**
   - 🧅 1 medium onion, diced
   - 🥕 1 medium carrot, diced
   - 🌱 1 rib celery, diced
   - 🧄 3 cloves garlic, sliced
-- 🥣 **Roux & broth**
+- 🫗 **Roux & broth**
   - 🧈 3 tbsp butter
   - 🌾 ¼ cup flour
   - 🍲 4 cups chicken broth
   - 💧 2 cups water
-- 🥛 **Finish**
-  - 🥛 ½ cup heavy cream
+- 🎀 **Finish**
+  - 🍼 ½ cup heavy cream
   - 🧂 Salt and pepper, to taste
-  - 🌶️ 1 pinch cayenne pepper
-  - 🌿 1 tbsp chopped fresh chives, for garnish
+  - 🔺 1 pinch cayenne pepper
+  - 🟢 1 tbsp chopped fresh chives, for garnish
 
 ---
 
@@ -46,17 +46,17 @@ source_url: "https://www.allrecipes.com/recipe/220127/"
 5. 🔥 Turn the heat to high and bring to a simmer, then simmer on medium-low for 15 minutes, stirring occasionally.
 6. 🧂 Taste the soup and add salt if needed.
 7. 🥔 Stir in the potatoes and cook 15 minutes, until tender. Skim the fat if you like.
-8. 🥄 Mash the soup a few times with a potato masher, leaving plenty of whole potato chunks.
+8. 🥔 Mash the soup a few times with a potato masher, leaving plenty of whole potato chunks.
 9. 🧂 Season with salt, pepper, and cayenne if desired, then stir in the cream and heat through.
-10. 🌿 Garnish with fresh chives.
+10. 🟢 Garnish with fresh chives.
 
 ---
 
 ## 📝 Notes
 
 - 🥔 Any kind of potato works.
-- 💧 Keep the diced potatoes in cold water until you need them to prevent browning.
-- 🌿 The recipe's bracketed note suggests ¼–½ tsp thyme, which isn't in the ingredient list.
+- 🥔 Keep the diced potatoes in cold water until you need them to prevent browning.
+- 💡 The recipe's bracketed note suggests ¼–½ tsp thyme, which isn't in the ingredient list.
 - 👤 By Chef John, via Allrecipes.
 
-*© Allrecipes. Printed from allrecipes.com, 2/23/2022.*
+*© 2022 Allrecipes. All rights reserved.*
