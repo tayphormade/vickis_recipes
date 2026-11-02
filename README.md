@@ -229,6 +229,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🧀 [Cheese Cake II](cheesecakes/cheese-cake-ii.md)
 - 🧀 [Cheesecake Factory Pumpkin Pecan Cheesecake](cheesecakes/cheesecake-factory-pumpkin-pecan-cheesecake.md)
 - 🧀 [Cheesecake I](cheesecakes/cheesecake-i.md)
+- 🧀 [Cheesecake II](cheesecakes/cheesecake-ii.md)
 - 🧀 [Cheesecake Pie (No Baking)](cheesecakes/cheesecake-pie-no-bake.md)
 
 ## Pies
