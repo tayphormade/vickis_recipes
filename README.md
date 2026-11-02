@@ -201,6 +201,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🎂 [Coconut Cake](cakes/coconut-cake.md)
 - 🎂 [Discover the French Kings' Cake](cakes/discover-the-french-kings-cake.md)
 - 🎂 [Dump Cake](cakes/dump-cake.md)
+- 🎂 [Easy Cranberry & Apple Cake](cakes/easy-cranberry-and-apple-cake.md)
 - 🎂 [Peach Cobbler Cupcakes](cakes/peach-cobbler-cupcakes.md)
 - 🎂 [Pumpkin Pie Dump Cake](cakes/pumpkin-pie-dump-cake.md)
 
