@@ -337,6 +337,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍬 [Chex Caramel Corn](candy/chex-caramel-corn.md)
 - 🍬 [Chocolate Peanut Butter Balls](candy/chocolate-peanut-butter-balls.md)
 - 🍬 [Cream Cheese Mints](candy/cream-cheese-mints.md)
+- 🍬 [Easiest Peanut Butter Fudge](candy/easiest-peanut-butter-fudge.md)
 
 ## Fruit desserts
 
