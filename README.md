@@ -286,6 +286,7 @@ Recipes converted to Markdown from the family recipe collection.
 ## Donuts
 
 - 🍩 [Apple Fritters](donuts/apple-fritters.md)
+- 🍩 [Basic Yeast Donuts](donuts/basic-yeast-donuts.md)
 
 ## Fruit desserts
 
