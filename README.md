@@ -372,6 +372,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍮 [Chocolate Instant No-Cook Dry Pudding Mix (Add Water)](puddings/chocolate-instant-no-cook-dry-pudding-mix.md)
 - 🍮 [Creamy Rice Pudding](puddings/creamy-rice-pudding.md)
 - 🍮 [Easy Microwave Lemon Curd](puddings/easy-microwave-lemon-curd.md)
+- 🍮 [Flan/Baked Custard](puddings/flan-baked-custard.md)
 
 ## Fruit desserts
 
