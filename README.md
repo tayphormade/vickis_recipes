@@ -234,6 +234,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🧀 [Chocolate Peanut Butter Cheesecake](cheesecakes/chocolate-peanut-butter-cheesecake.md)
 - 🧀 [Easy New Year's Cheesecake](cheesecakes/easy-new-years-cheesecake.md)
 - 🧀 [Microwave Cheesecake for One](cheesecakes/microwave-cheesecake-for-one.md)
+- 🧀 [No-Bake Pumpkin Cheesecake](cheesecakes/no-bake-pumpkin-cheesecake.md)
 
 ## Pies
 
