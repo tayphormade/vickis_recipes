@@ -373,6 +373,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍮 [Creamy Rice Pudding](puddings/creamy-rice-pudding.md)
 - 🍮 [Easy Microwave Lemon Curd](puddings/easy-microwave-lemon-curd.md)
 - 🍮 [Flan/Baked Custard](puddings/flan-baked-custard.md)
+- 🍮 [Homemade Chocolate Pudding Mix](puddings/homemade-chocolate-pudding-mix.md)
 
 ## Fruit desserts
 
