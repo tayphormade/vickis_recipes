@@ -158,3 +158,66 @@ Recipes converted to Markdown from the family recipe collection.
 - 🫙 [Homemade Cherry Pie Filling](canning/cherry-pie-filling.md)
 - 🫙 [Strawberry Pie Filling](canning/strawberry-pie-filling.md)
 - 🫙 [Vanilla Bean Pear Pie Filling](canning/vanilla-bean-pear-pie-filling.md)
+
+## Cookies
+
+- 🍪 [Almond Macaroons](cookies/almond-macaroons.md)
+- 🍪 [Chocolate Brownie Cookies](cookies/chocolate-brownie-cookies.md)
+- 🍪 [Coconut Shortbread Cookies](cookies/coconut-shortbread-cookies.md)
+- 🍪 [Cookie Dough Cheesecake](cookies/cookie-dough-cheesecake.md)
+- 🍪 [DoubleTree Chocolate Chip Cookies](cookies/doubletree-chocolate-chip-cookies.md)
+- 🍪 [Flourless Chocolate Cookies](cookies/flourless-chocolate-cookies.md)
+- 🍪 [Green Mint Cookies](cookies/green-mint-cookies.md)
+- 🍪 [Keto Shortbread Cookies](cookies/keto-shortbread-cookies.md)
+- 🍪 [Snickerdoodles (Gluten Free)](cookies/snickerdoodles-gluten-free.md)
+
+## Brownies
+
+- 🍫 [Gluten-Free Brownies](brownies/gluten-free-brownies.md)
+
+## Bars
+
+- 🍯 [Apple-Date Bars](bars/apple-date-bars.md)
+- 🍯 [Pecan Pie Bars](bars/pecan-pie-bars.md)
+
+## Cakes
+
+- 🎂 [Peach Cobbler Cupcakes](cakes/peach-cobbler-cupcakes.md)
+- 🎂 [Pumpkin Pie Dump Cake](cakes/pumpkin-pie-dump-cake.md)
+
+## Cheesecakes
+
+- 🧀 [Cheesecake Factory Pumpkin Pecan Cheesecake](cheesecakes/cheesecake-factory-pumpkin-pecan-cheesecake.md)
+- 🧀 [Cheesecake Pie (No Baking)](cheesecakes/cheesecake-pie-no-bake.md)
+
+## Pies
+
+- 🥧 [Cheaters Lemonade Pie](pies/cheaters-lemonade-pie.md)
+- 🥧 [Hula Pie](pies/hula-pie.md)
+- 🥧 [Lemon Icebox Pie](pies/lemon-icebox-pie.md)
+- 🥧 [Pumpkin Pie Crumble](pies/pumpkin-pie-crumble.md)
+- 🥧 [Pumpkin Pie with Powdered Pumpkin](pies/pumpkin-pie-with-powdered-pumpkin.md)
+
+## Tarts
+
+- 🍓 [Easy Galette des Rois (French King Cake)](tarts/easy-galette-des-rois.md)
+- 🍓 [Pear Almond Tart](tarts/pear-almond-tart.md)
+
+## Pastries
+
+- 🍰 [Puff Pastry in 5 Minutes](pastries/puff-pastry-in-5-minutes.md)
+
+## Fruit desserts
+
+- 🍑 [Pumpkin Pecan Cobbler](fruit-desserts/pumpkin-pecan-cobbler.md)
+- 🍑 [Pumpkin Pie Leather](fruit-desserts/pumpkin-pie-leather.md)
+
+## Canning
+
+- 🫙 [Canned Concord Grape Pie Filling](canning/concord-grape-pie-filling.md)
+- 🫙 [Canning Grape Pie Filling](canning/grape-pie-filling.md)
+- 🫙 [Concord Grape Puree](canning/grape-puree.md)
+- 🫙 [Fruit Pie Filling (to Can)](canning/fruit-pie-filling.md)
+- 🫙 [Homemade Cherry Pie Filling](canning/cherry-pie-filling.md)
+- 🫙 [Strawberry Pie Filling](canning/strawberry-pie-filling.md)
+- 🫙 [Vanilla Bean Pear Pie Filling](canning/vanilla-bean-pear-pie-filling.md)
