@@ -321,6 +321,7 @@ Recipes converted to Markdown from the family recipe collection.
 ## Frostings
 
 - 🍯 [Buttercream Recipe (Gretchen's Bakery)](frostings/gretchens-bakery-buttercream.md)
+- 🍯 [Buttermilk Glaze](frostings/buttermilk-glaze.md)
 
 ## Fruit desserts
 
