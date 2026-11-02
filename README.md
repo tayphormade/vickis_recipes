@@ -212,6 +212,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🎂 [New Jersey Crumb Cake](cakes/new-jersey-crumb-cake.md)
 - 🎂 [New York Crumb Cake](cakes/new-york-crumb-cake.md)
 - 🎂 [Peach Cobbler Cupcakes](cakes/peach-cobbler-cupcakes.md)
+- 🎂 [Peachberry Buckle](cakes/peachberry-buckle.md)
 - 🎂 [Pumpkin Pie Dump Cake](cakes/pumpkin-pie-dump-cake.md)
 
 ## Cheesecakes
