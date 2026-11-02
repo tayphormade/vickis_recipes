@@ -395,6 +395,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🫙 [Canned Apple Pie Filling](canning/canned-apple-pie-filling.md)
 - 🫙 [Canned Concord Grape Pie Filling](canning/concord-grape-pie-filling.md)
 - 🫙 [Canning Grape Pie Filling](canning/grape-pie-filling.md)
+- 🫙 [Cherry Pie Filling (National Center for Home Food Preservation)](canning/nchfp-cherry-pie-filling.md)
 - 🫙 [Concord Grape Puree](canning/grape-puree.md)
 - 🫙 [Fruit Pie Filling (to Can)](canning/fruit-pie-filling.md)
 - 🫙 [Homemade Cherry Pie Filling](canning/cherry-pie-filling.md)
