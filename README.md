@@ -172,6 +172,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍪 [Italian Fig Cookies (Cuccidati)](cookies/italian-fig-cookies-cuccidati.md)
 - 🍪 [Keto Shortbread Cookies](cookies/keto-shortbread-cookies.md)
 - 🍪 [Peppermint Meringue Cookie Recipe](cookies/peppermint-meringue-cookies.md)
+- 🍪 [Polka Daters](cookies/polka-daters.md)
 - 🍪 [Snickerdoodles (Gluten Free)](cookies/snickerdoodles-gluten-free.md)
 
 ## Brownies
