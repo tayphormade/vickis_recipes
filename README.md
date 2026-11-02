@@ -51,3 +51,4 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍪 [Flourless Chocolate Cookies](cookies/flourless-chocolate-cookies.md)
 - 🍪 [Green Mint Cookies](cookies/green-mint-cookies.md)
 - 🍪 [Keto Shortbread Cookies](cookies/keto-shortbread-cookies.md)
+- 🍪 [Snickerdoodles (Gluten Free)](cookies/snickerdoodles-gluten-free.md)
