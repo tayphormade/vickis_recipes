@@ -385,6 +385,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍑 [Apple Oatmeal Crisp](fruit-desserts/apple-oatmeal-crisp.md)
 - 🍑 [Boston Market Cinnamon Apples Fat-Free](fruit-desserts/boston-market-cinnamon-apples-fat-free.md)
 - 🍑 [Concord Grape Pie](fruit-desserts/concord-grape-pie.md)
+- 🍑 [Harvest Pear Crisp](fruit-desserts/harvest-pear-crisp.md)
 - 🍑 [Pumpkin Pecan Cobbler](fruit-desserts/pumpkin-pecan-cobbler.md)
 - 🍑 [Pumpkin Pie Leather](fruit-desserts/pumpkin-pie-leather.md)
 
