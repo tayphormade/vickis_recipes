@@ -334,6 +334,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍬 [Alton Brown's Microwave Peanut Butter Fudge](candy/alton-browns-microwave-peanut-butter-fudge.md)
 - 🍬 [Caramels](candy/caramels.md)
 - 🍬 [Chef John's Easy Peanut Butter Fudge](candy/chef-johns-easy-peanut-butter-fudge.md)
+- 🍬 [Chex Caramel Corn](candy/chex-caramel-corn.md)
 
 ## Fruit desserts
 
