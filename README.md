@@ -247,6 +247,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🥧 [Julia Child Pastry Cream for Eclairs](pies/julia-child-pastry-cream-for-eclairs.md)
 - 🥧 [Lemon Icebox Pie](pies/lemon-icebox-pie.md)
 - 🥧 [Marie Callender's Double Cream Blueberry Pie Copycat](pies/marie-callenders-double-cream-blueberry-pie.md)
+- 🥧 [Old-Fashioned Banana Cream Pie](pies/old-fashioned-banana-cream-pie.md)
 - 🥧 [Pumpkin Pie Crumble](pies/pumpkin-pie-crumble.md)
 - 🥧 [Pumpkin Pie with Powdered Pumpkin](pies/pumpkin-pie-with-powdered-pumpkin.md)
 
