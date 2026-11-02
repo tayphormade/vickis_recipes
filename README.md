@@ -265,6 +265,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍰 [Apple Turnovers](pastries/apple-turnovers.md)
 - 🍰 [Chinese Moon Cakes](pastries/chinese-moon-cakes.md)
 - 🍰 [Cinnabon Cinnamon Rolls](pastries/cinnabon-cinnamon-rolls.md)
+- 🍰 [Cinnamon Rolls](pastries/cinnamon-rolls.md)
 - 🍰 [Puff Pastry in 5 Minutes](pastries/puff-pastry-in-5-minutes.md)
 
 ## Fruit desserts
