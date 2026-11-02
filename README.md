@@ -174,6 +174,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍪 [Peppermint Meringue Cookie Recipe](cookies/peppermint-meringue-cookies.md)
 - 🍪 [Polka Daters](cookies/polka-daters.md)
 - 🍪 [Snickerdoodles (Gluten Free)](cookies/snickerdoodles-gluten-free.md)
+- 🍪 [Valentine's Day Meringue Kisses](cookies/valentine-meringue-kisses.md)
 
 ## Brownies
 
