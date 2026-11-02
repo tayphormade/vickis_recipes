@@ -196,6 +196,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🎂 [Blueberry Buckle Coffeecake](cakes/blueberry-buckle-coffeecake.md)
 - 🎂 [Cake Pops](cakes/cake-pops.md)
 - 🎂 [Caramel Apple Dump Cake](cakes/caramel-apple-dump-cake.md)
+- 🎂 [Chocolate Cake in a Mug](cakes/chocolate-cake-in-a-mug.md)
 - 🎂 [Peach Cobbler Cupcakes](cakes/peach-cobbler-cupcakes.md)
 - 🎂 [Pumpkin Pie Dump Cake](cakes/pumpkin-pie-dump-cake.md)
 
