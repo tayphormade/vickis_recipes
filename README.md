@@ -256,6 +256,7 @@ Recipes converted to Markdown from the family recipe collection.
 
 - 🍓 [Easy Galette des Rois (French King Cake)](tarts/easy-galette-des-rois.md)
 - 🍓 [Fresh Fruit Tart With Almond Press-In Crust](tarts/fresh-fruit-tart-almond-press-in-crust.md)
+- 🍓 [Olive Garden Warm Apple Crostata](tarts/olive-garden-warm-apple-crostata.md)
 - 🍓 [Pear Almond Tart](tarts/pear-almond-tart.md)
 
 ## Pastries
