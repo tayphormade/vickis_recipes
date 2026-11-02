@@ -318,6 +318,10 @@ Recipes converted to Markdown from the family recipe collection.
 - 🫓 [Starbucks Pumpkin Scones](scones/starbucks-pumpkin-scones.md)
 - 🫓 [Tart Cherry-and-Vanilla Scones](scones/tart-cherry-and-vanilla-scones.md)
 
+## Frostings
+
+- 🍯 [Buttercream Recipe (Gretchen's Bakery)](frostings/gretchens-bakery-buttercream.md)
+
 ## Fruit desserts
 
 - 🍑 [Pumpkin Pecan Cobbler](fruit-desserts/pumpkin-pecan-cobbler.md)
