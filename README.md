@@ -197,6 +197,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🎂 [Cake Pops](cakes/cake-pops.md)
 - 🎂 [Caramel Apple Dump Cake](cakes/caramel-apple-dump-cake.md)
 - 🎂 [Chocolate Cake in a Mug](cakes/chocolate-cake-in-a-mug.md)
+- 🎂 [Cinnamon Crumb Cake](cakes/cinnamon-crumb-cake.md)
 - 🎂 [Peach Cobbler Cupcakes](cakes/peach-cobbler-cupcakes.md)
 - 🎂 [Pumpkin Pie Dump Cake](cakes/pumpkin-pie-dump-cake.md)
 
