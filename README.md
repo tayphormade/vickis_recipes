@@ -295,6 +295,10 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍩 [Pumpkin Churro Doughnuts](donuts/pumpkin-churro-doughnuts.md)
 - 🍩 [Sourdough Donuts](donuts/sourdough-donuts.md)
 
+## Muffins
+
+- 🧁 [Banana Muffins II](muffins/banana-muffins-ii.md)
+
 ## Fruit desserts
 
 - 🍑 [Pumpkin Pecan Cobbler](fruit-desserts/pumpkin-pecan-cobbler.md)
