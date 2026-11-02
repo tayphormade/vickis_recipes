@@ -66,3 +66,7 @@ Recipes converted to Markdown from the family recipe collection.
 
 - 🎂 [Peach Cobbler Cupcakes](cakes/peach-cobbler-cupcakes.md)
 - 🎂 [Pumpkin Pie Dump Cake](cakes/pumpkin-pie-dump-cake.md)
+
+## Cheesecakes
+
+- 🧀 [Cheesecake Factory Pumpkin Pecan Cheesecake](cheesecakes/cheesecake-factory-pumpkin-pecan-cheesecake.md)
