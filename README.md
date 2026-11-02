@@ -298,6 +298,7 @@ Recipes converted to Markdown from the family recipe collection.
 ## Muffins
 
 - 🧁 [Banana Muffins II](muffins/banana-muffins-ii.md)
+- 🧁 [Blueberry Pumpkin Muffins](muffins/blueberry-pumpkin-muffins.md)
 
 ## Fruit desserts
 
