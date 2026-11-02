@@ -290,6 +290,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍩 [Cafe Du Monde Beignets Hack](donuts/cafe-du-monde-beignets-hack.md)
 - 🍩 [Costas French Market Doughnuts (Beignets)](donuts/costas-french-market-doughnuts-beignets.md)
 - 🍩 [Fluffiest Homemade Donuts](donuts/fluffiest-homemade-donuts.md)
+- 🍩 [Incredible Gluten Free Yeast Donuts](donuts/incredible-gluten-free-yeast-donuts.md)
 
 ## Fruit desserts
 
