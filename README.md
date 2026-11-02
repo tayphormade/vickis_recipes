@@ -349,6 +349,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍬 [Loretta Lynn's Peanut Butter Fudge](candy/loretta-lynns-peanut-butter-fudge.md)
 - 🍬 [Maple Syrup Candy](candy/maple-syrup-candy.md)
 - 🍬 [Marshmallows (America's Test Kitchen)](candy/marshmallows-americas-test-kitchen.md)
+- 🍬 [Orange Jelly Candy](candy/orange-jelly-candy.md)
 
 ## Fruit desserts
 
