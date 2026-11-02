@@ -53,9 +53,9 @@ source_url: "https://topsecretrecipes.com/Top-Secret-Recipes/Copycat-Restaurant-
 ## 👩‍🍳 Steps
 
 1. 🧂 **Brine the chicken.** Stir the water and salt in a medium bowl until the salt dissolves. Slice the chicken breast in half horizontally to make two thinner fillets. Add them to the brine and refrigerate for 2 hours. Remove, blot dry with paper towels, dice with a sharp knife, and refrigerate until needed.
-2. 🔥 Melt the butter in a Dutch oven over medium-low heat. Add the onion, carrots, and celery and simmer for 10 minutes, stirring occasionally, until the onions turn translucent.
-3. 🧄 Stir in the cabbage and garlic. Add the chicken broth, 2 cups of the water (save the last cup), the bouillon, onion powder, pepper, parsley, sugar, salt, thyme, tarragon, and turmeric. Raise the heat until the soup bubbles, then reduce and simmer for 20 minutes.
-4. 🥣 Combine the cornstarch and flour with the remaining cup of water and whisk well. Add this slurry, the half-and-half, and the rice (not the flavor packet) to the soup and stir. Bring back to a boil, reduce the heat, and simmer for 30 minutes. Add the diced chicken and simmer another 10 minutes, or until the rice is tender and the soup is thick.
+2. 🔥 **Melt the butter in a Dutch oven over medium-low heat.** Add the onion, carrots, and celery and simmer for 10 minutes, stirring occasionally, until the onions turn translucent.
+3. 🧄 **Stir in the cabbage and garlic.** Add the chicken broth, 2 cups of the water (save the last cup), the bouillon, onion powder, pepper, parsley, sugar, salt, thyme, tarragon, and turmeric. Raise the heat until the soup bubbles, then reduce and simmer for 20 minutes.
+4. 🥣 **Combine the cornstarch and flour with the remaining cup of water and whisk well.** Add this slurry, the half-and-half, and the rice (not the flavor packet) to the soup and stir. Bring back to a boil, reduce the heat, and simmer for 30 minutes. Add the diced chicken and simmer another 10 minutes, or until the rice is tender and the soup is thick.
 
 ---
 
