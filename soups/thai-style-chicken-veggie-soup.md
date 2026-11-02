@@ -1,8 +1,8 @@
 ---
-title: "Thai-Style Chicken & Veggie Soup (Green Chef)"
+title: "Thai-Style Chicken & Veggie Soup"
 ---
 
-# Thai-Style Chicken & Veggie Soup (Green Chef)
+# Thai-Style Chicken & Veggie Soup
 
 - 🍽️ **Servings:** 2 (for 4, double the measurements where it makes sense)
 - ⏱️ **Cook time:** 30 minutes
@@ -71,6 +71,7 @@ title: "Thai-Style Chicken & Veggie Soup (Green Chef)"
 
 ## 📝 Notes
 
+- 👤 Recipe from Green Chef.
 - 🇹🇭 Inspired by Thai coconut chicken soup, with bell pepper, shiitake mushrooms, citrusy aromatics, a savory-creamy broth, and jasmine rice.
 - 🐟 **Allergens:** fish (anchovies in the broth) and tree nuts (coconut).
 - 🥥 If the coconut milk has solidified in the fridge, spoon it into the soup.

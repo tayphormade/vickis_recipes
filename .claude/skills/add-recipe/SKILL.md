@@ -141,7 +141,7 @@ Add a bullet under the category's `##` heading in `README.md`, in alphabetical o
 
 ## 7. Commit and push only when asked
 
-- Commit only when the user asks.
+- Commit only when the user asks. Don't add a `Co-Authored-By` line.
 - Never push unless the user explicitly says to in that moment. Earlier permission doesn't carry over.
 - Never force push without explicit permission.
 - Tell the user about anything you couldn't verify or had to interpret.

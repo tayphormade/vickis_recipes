@@ -1,5 +1,5 @@
 ---
-title: "Chicken Pot Pie (Soup or Meal in a Jar, Thrive Life)"
+title: "Chicken Pot Pie (Soup or Meal in a Jar)"
 ---
 
 # Chicken Pot Pie (Soup or Meal in a Jar)
