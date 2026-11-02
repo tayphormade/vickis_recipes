@@ -5,10 +5,11 @@ source_url: "https://topsecretrecipes.com/Top-Secret-Recipes/Copycat-Restaurant-
 
 # Panera Bread Cream of Chicken and Wild Rice Soup
 
+🔗 **Source:** [Top Secret Recipes, Panera category page](https://topsecretrecipes.com/Top-Secret-Recipes/Copycat-Restaurant-Recipes/p-t/Panera-Bread-Recipes) (not this exact recipe)
+
 - 🍽️ **Servings:** 7 (makes 10 cups)
 - ⏱️ **Chicken brine:** 2 hours
-- 🍲 **Simmer time:** about 1 hour (20 + 30 + 10 minutes)
-- 🔪 **Prep time:** not listed in the source
+- ♨️ **Simmer time:** about 1 hour (20 + 30 + 10 minutes)
 
 ---
 
@@ -22,16 +23,16 @@ source_url: "https://topsecretrecipes.com/Top-Secret-Recipes/Copycat-Restaurant-
 
 ### 🥣 Soup
 
-- 🥬 **Vegetables & aromatics**
+- 🥗 **Vegetables & aromatics**
   - 🧅 1 cup sliced white onion (about half a medium onion)
   - 🥕 1 cup sliced carrots (about 3 medium)
-  - 🌿 ¾ cup sliced celery (about 2 medium stalks)
+  - 🌱 ¾ cup sliced celery (about 2 medium stalks)
   - 🥬 ½ cup chopped green cabbage
   - 🧄 1 tbsp minced garlic
 - 🍲 **Broth & water**
   - 🍲 6 cups chicken broth
   - 💧 3 cups water
-  - 🥄 2 tsp Knorr large chicken bouillon powder (or 2 regular bouillon cubes)
+  - 🫙 2 tsp Knorr large chicken bouillon powder (or 2 regular bouillon cubes)
 - 🌿 **Herbs & spices**
   - 🧅 ½ tsp onion powder
   - ⚫ ½ tsp ground black pepper
@@ -41,7 +42,7 @@ source_url: "https://topsecretrecipes.com/Top-Secret-Recipes/Copycat-Restaurant-
   - 🌿 ¼ tsp dried thyme
   - 🌿 ¼ tsp dried tarragon
   - 🟡 ⅛ tsp ground turmeric
-- 🧈 **Fat, thickeners & rice**
+- 🥘 **Fat, thickeners & rice**
   - 🧈 2 tbsp unsalted butter
   - 🥄 ⅓ cup cornstarch
   - 🌾 2 tbsp all-purpose flour
@@ -74,7 +75,7 @@ source_url: "https://topsecretrecipes.com/Top-Secret-Recipes/Copycat-Restaurant-
 - 🌾 The long grain and wild rice mix many of them use is a good way to get the right amount of rice, but don't use its flavor packet.
 - 🧂 This recipe makes a better seasoning for the soup.
 - 🥬 Panera's transparent ingredient policy revealed a couple of surprises, including cabbage.
-- 🥄 Bouillon cubes: You can substitute them for the powdered bouillon. Heat the reserved water in the microwave until boiling, then dissolve the cube(s) in it before adding it in step 3. Use 2 standard cubes, or 1 Knorr cube (double-size), in place of the 2 teaspoons of powder.
+- 🫙 Bouillon cubes: You can substitute them for the powdered bouillon. Heat the reserved water in the microwave until boiling, then dissolve the cube(s) in it before adding it in step 8. Use 2 standard cubes, or 1 Knorr cube (double-size), in place of the 2 teaspoons of powder.
 - 🍚 Leftover flavor packet: Instead of tossing it, use it to season plain rice. Bring 1⅔ cups water and 1 tbsp butter to a boil in a medium saucepan over high heat. Stir in ⅔ cup white rice (jasmine works well) and the flavor packet. Reduce the heat and simmer 20–25 minutes, until the water is absorbed.
 
 *By Todd Wilbur, Top Secret Recipes. © 2020 Top Secret Recipes. All rights reserved. www.TopSecretRecipes.com*
