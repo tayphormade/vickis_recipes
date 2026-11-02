@@ -240,6 +240,7 @@ Recipes converted to Markdown from the family recipe collection.
 
 - 🥧 [Apple Crumble Pie](pies/apple-crumble-pie.md)
 - 🥧 [Cheaters Lemonade Pie](pies/cheaters-lemonade-pie.md)
+- 🥧 [Chocolate and Coconut Cream Pie](pies/chocolate-and-coconut-cream-pie.md)
 - 🥧 [Hula Pie](pies/hula-pie.md)
 - 🥧 [Lemon Icebox Pie](pies/lemon-icebox-pie.md)
 - 🥧 [Pumpkin Pie Crumble](pies/pumpkin-pie-crumble.md)
