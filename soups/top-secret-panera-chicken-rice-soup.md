@@ -22,15 +22,22 @@ source_url: "https://topsecretrecipes.com/Top-Secret-Recipes/Copycat-Restaurant-
 
 ### 🥣 Soup
 
-- 🧈 2 tbsp unsalted butter
+#### 🥬 Vegetables & aromatics
+
 - 🧅 1 cup sliced white onion (about half a medium onion)
 - 🥕 1 cup sliced carrots (about 3 medium)
 - 🌿 ¾ cup sliced celery (about 2 medium stalks)
 - 🥬 ½ cup chopped green cabbage
 - 🧄 1 tbsp minced garlic
+
+#### 🍲 Broth & water
+
 - 🍲 6 cups chicken broth
 - 💧 3 cups water
 - 🥄 2 tsp Knorr large chicken bouillon powder (or 2 regular bouillon cubes)
+
+#### 🌿 Herbs & spices
+
 - 🧅 ½ tsp onion powder
 - ⚫ ½ tsp ground black pepper
 - 🌿 ½ tsp dried parsley
@@ -39,6 +46,10 @@ source_url: "https://topsecretrecipes.com/Top-Secret-Recipes/Copycat-Restaurant-
 - 🌿 ¼ tsp dried thyme
 - 🌿 ¼ tsp dried tarragon
 - 🟡 ⅛ tsp ground turmeric
+
+#### 🧈 Fat, thickeners & rice
+
+- 🧈 2 tbsp unsalted butter
 - 🥄 ⅓ cup cornstarch
 - 🌾 2 tbsp all-purpose flour
 - 🥛 1½ cups half-and-half
