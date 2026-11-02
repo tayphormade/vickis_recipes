@@ -304,6 +304,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🧁 [Lemon Poppy Seed Muffins](muffins/lemon-poppy-seed-muffins.md)
 - 🧁 [Lemon-Blueberry Muffins](muffins/lemon-blueberry-muffins.md)
 - 🧁 [Morning Glory Muffins](muffins/morning-glory-muffins.md)
+- 🧁 [Quick and Easy Blueberry Muffins](muffins/quick-and-easy-blueberry-muffins.md)
 
 ## Fruit desserts
 
