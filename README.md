@@ -208,6 +208,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🎂 [Hostess Mint Chocolate CupCakes](cakes/hostess-mint-chocolate-cupcakes.md)
 - 🎂 [Kugelhopf (Gugelhupf)](cakes/kugelhopf-gugelhupf.md)
 - 🎂 [Mardi Gras King Cake](cakes/mardi-gras-king-cake.md)
+- 🎂 [Molten Lava Cake](cakes/molten-lava-cake.md)
 - 🎂 [Peach Cobbler Cupcakes](cakes/peach-cobbler-cupcakes.md)
 - 🎂 [Pumpkin Pie Dump Cake](cakes/pumpkin-pie-dump-cake.md)
 
