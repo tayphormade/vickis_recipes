@@ -305,6 +305,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🧁 [Lemon-Blueberry Muffins](muffins/lemon-blueberry-muffins.md)
 - 🧁 [Morning Glory Muffins](muffins/morning-glory-muffins.md)
 - 🧁 [Quick and Easy Blueberry Muffins](muffins/quick-and-easy-blueberry-muffins.md)
+- 🧁 [Reduced-Fat Otis Spunkmeyer Wild Blueberry Muffins](muffins/reduced-fat-otis-spunkmeyer-wild-blueberry-muffins.md)
 
 ## Fruit desserts
 
