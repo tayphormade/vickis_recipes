@@ -5,25 +5,31 @@ title: "Chicken Pot Pie (Soup or Meal in a Jar, Thrive Life)"
 # Chicken Pot Pie (Soup or Meal in a Jar)
 
 - 🍽️ **Servings:** 5
-- ⏱️ **Prep:** 5 minutes
-- 🔥 **Cook:** 0 minutes
+- ⏱️ **Prep:** 15 minutes
+- ⏲️ **Cook:** 10 minutes
 
 ---
 
 ## 🛒 Ingredients
 
-- 🍗 ___ cup Thrive Life Chicken Dices
-- 🥕 ___ cup Thrive Life Carrot Dices
-- 🍲 ___ cup Thrive Life Veloute (Rich Chicken Gravy)
-- 🥛 1 tbsp Thrive Life Instant Milk
-- 🧅 1 cup Thrive Life Chopped Onions
-- 🥔 ___ cup Thrive Life Potato Dices
-- 🫛 ___ cup Thrive Life Green Peas
-- 🧈 ___ tbsp Thrive Life Butter Powder
-- 🌿 ___ tbsp ground sage
-- ⚫ 1 tbsp black pepper
-- 🌿 ___ tbsp dried parsley
-- 💧 6 cups water
+- 🍗 **Chicken & gravy**
+  - 🐔 1 cup Thrive Life Chicken Dices
+  - 🍲 ⅓ cup Thrive Life Veloute (Rich Chicken Gravy)
+- 🥦 **Vegetables**
+  - 🥕 ⅓ cup Thrive Life Carrot Dices
+  - 🧅 ½ cup Thrive Life Chopped Onions
+  - 🥔 1 cup Thrive Life Potato Dices
+  - 🫛 ⅓ cup Thrive Life Green Peas
+- 🐄 **Dairy**
+  - 🥛 ½ tbsp Thrive Life Instant Milk
+  - 🧈 1 tbsp Thrive Life Butter Powder
+- 🪴 **Seasonings**
+  - 🍃 1 tbsp ground sage
+  - ⚫ ½ tbsp black pepper
+  - 🌿 1 tbsp dried parsley
+- 🧺 **To cook**
+  - 💧 6 cups water
+  - 🌾 1 to 2 tbsp flour (optional, to thicken)
 
 ---
 
@@ -32,14 +38,12 @@ title: "Chicken Pot Pie (Soup or Meal in a Jar, Thrive Life)"
 1. 💧 Add the contents to 6 cups of water.
 2. 🔥 Bring to a boil.
 3. 🥄 Stir well.
-4. ♨️ Simmer for 0–2 minutes.
-5. 🥄 If you want it thicker, add ___ to 2 tbsp of ___ to thicken the soup.
-6. 🎉 Enjoy!
+4. ♨️ Simmer for 10–12 minutes.
+5. 🌾 Add 1 to 2 tbsp of flour to thicken the soup, if desired.
 
 ---
 
 ## 📝 Notes
 
-- 🥄 Thrive Life recipe, provided by Michelle Daughs. It was originally created as a meal in a jar, but it can also be cooked as a soup.
-- 🌟 Variation: add Thrive Life mushrooms.
-- ⚠️ The PDF text layer lost several fractions and one word, so quantities marked `___` need to be checked against the original PDF.
+- 👤 Thrive Life recipe, provided by Michelle Daughs. It was originally created as a meal in a jar, but it can also be cooked as a soup.
+- 🍄 Variation: try adding Thrive Life mushrooms.
