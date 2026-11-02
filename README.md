@@ -281,6 +281,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🥐 [Better Than Croissants](croissants/better-than-croissants.md)
 - 🥐 [Croissants](croissants/croissants.md)
 - 🥐 [Pain au Chocolat](croissants/pain-au-chocolat.md)
+- 🥐 [Pain aux Raisins](croissants/pain-aux-raisins.md)
 
 ## Fruit desserts
 
