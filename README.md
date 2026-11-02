@@ -56,3 +56,7 @@ Recipes converted to Markdown from the family recipe collection.
 ## Brownies
 
 - 🍫 [Gluten-Free Brownies](brownies/gluten-free-brownies.md)
+
+## Bars
+
+- 🍯 [Apple-Date Bars](bars/apple-date-bars.md)
