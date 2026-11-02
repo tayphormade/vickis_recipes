@@ -243,6 +243,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🥧 [Chocolate and Coconut Cream Pie](pies/chocolate-and-coconut-cream-pie.md)
 - 🥧 [Easy Julia Child Eclair Icing](pies/julia-child-eclair-icing-chocolate-ganache.md)
 - 🥧 [Hula Pie](pies/hula-pie.md)
+- 🥧 [Julia Child Eclair Pastry (Pate a Choux)](pies/julia-child-eclair-pastry-pate-a-choux.md)
 - 🥧 [Lemon Icebox Pie](pies/lemon-icebox-pie.md)
 - 🥧 [Pumpkin Pie Crumble](pies/pumpkin-pie-crumble.md)
 - 🥧 [Pumpkin Pie with Powdered Pumpkin](pies/pumpkin-pie-with-powdered-pumpkin.md)
