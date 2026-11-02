@@ -1,9 +1,9 @@
 ---
-title: "Panera Bread Cream of Chicken and Wild Rice Soup (Top Secret Recipes)"
+title: "Panera Bread Cream of Chicken and Wild Rice Soup"
 source_url: "https://topsecretrecipes.com/Top-Secret-Recipes/Copycat-Restaurant-Recipes/p-t/Panera-Bread-Recipes"
 ---
 
-# Panera Bread Cream of Chicken and Wild Rice Soup (Top Secret Recipes Clone)
+# Panera Bread Cream of Chicken and Wild Rice Soup
 
 - 🍽️ **Servings:** 7 (makes 10 cups)
 - ⏱️ **Chicken brine:** 2 hours
