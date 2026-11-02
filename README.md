@@ -192,6 +192,7 @@ Recipes converted to Markdown from the family recipe collection.
 
 ## Cakes
 
+- 🎂 [Best Carrot Cake](cakes/best-carrot-cake.md)
 - 🎂 [Peach Cobbler Cupcakes](cakes/peach-cobbler-cupcakes.md)
 - 🎂 [Pumpkin Pie Dump Cake](cakes/pumpkin-pie-dump-cake.md)
 
