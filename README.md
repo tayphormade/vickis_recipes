@@ -188,6 +188,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍯 [Cranberry Bliss Bars (Starbucks Copycat)](bars/cranberry-bliss-bars.md)
 - 🍯 [Pecan Pie Bars](bars/pecan-pie-bars.md)
 - 🍯 [Small Batch Lemon Bars](bars/small-batch-lemon-bars.md)
+- 🍯 [Strawberry Rhubarb Crumb Bars](bars/strawberry-rhubarb-crumb-bars.md)
 
 ## Cakes
 
