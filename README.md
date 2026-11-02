@@ -307,6 +307,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🧁 [Quick and Easy Blueberry Muffins](muffins/quick-and-easy-blueberry-muffins.md)
 - 🧁 [Reduced-Fat Otis Spunkmeyer Wild Blueberry Muffins](muffins/reduced-fat-otis-spunkmeyer-wild-blueberry-muffins.md)
 - 🧁 [Rhubarb Muffins](muffins/rhubarb-muffins.md)
+- 🧁 [Sourdough English Muffins](muffins/sourdough-english-muffins.md)
 
 ## Fruit desserts
 
