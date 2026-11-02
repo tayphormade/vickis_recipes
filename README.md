@@ -341,6 +341,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍬 [Easy Old-Fashioned Homemade Marshmallows](candy/easy-old-fashioned-homemade-marshmallows.md)
 - 🍬 [Fruit Gummies](candy/fruit-gummies.md)
 - 🍬 [Fruit Jellies Without Gelatin](candy/fruit-jellies-without-gelatin.md)
+- 🍬 [Grandma's Old Fashion Fudge](candy/grandmas-old-fashion-fudge.md)
 
 ## Fruit desserts
 
