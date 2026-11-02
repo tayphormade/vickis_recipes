@@ -216,6 +216,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🎂 [Pumpkin Pie Dump Cake](cakes/pumpkin-pie-dump-cake.md)
 - 🎂 [Rhubarb Cake](cakes/rhubarb-cake.md)
 - 🎂 [Super Easy King Cake (WOW GOOD!)](cakes/super-easy-king-cake.md)
+- 🎂 [Texas Sheet Cake](cakes/texas-sheet-cake.md)
 
 ## Cheesecakes
 
