@@ -352,6 +352,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍬 [Orange Jelly Candy](candy/orange-jelly-candy.md)
 - 🍬 [Orange Peel Candies (Only 2 Ingredients)](candy/orange-peel-candies-only-2-ingredients.md)
 - 🍬 [Salted Caramel Sauce](candy/salted-caramel-sauce.md)
+- 🍬 [See's Candies Cinnamon Lollypop](candy/sees-candies-cinnamon-lollypop.md)
 
 ## Fruit desserts
 
