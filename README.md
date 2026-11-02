@@ -328,6 +328,10 @@ Recipes converted to Markdown from the family recipe collection.
 - 🍯 [Simple Cookie Glaze](frostings/simple-cookie-glaze-king-arthur.md)
 - 🍯 [Swiss Buttercream](frostings/swiss-buttercream.md)
 
+## Candy
+
+- 🍬 [Almond Paste](candy/almond-paste.md)
+
 ## Fruit desserts
 
 - 🍑 [Pumpkin Pecan Cobbler](fruit-desserts/pumpkin-pecan-cobbler.md)
