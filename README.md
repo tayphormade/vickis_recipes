@@ -206,6 +206,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🎂 [Gluten Free Hostess Style Cupcakes](cakes/gluten-free-hostess-style-cupcakes.md)
 - 🎂 [Gluten, Egg, and Dairy-Free Chocolate Cake](cakes/gluten-egg-and-dairy-free-chocolate-cake.md)
 - 🎂 [Hostess Mint Chocolate CupCakes](cakes/hostess-mint-chocolate-cupcakes.md)
+- 🎂 [Kugelhopf (Gugelhupf)](cakes/kugelhopf-gugelhupf.md)
 - 🎂 [Peach Cobbler Cupcakes](cakes/peach-cobbler-cupcakes.md)
 - 🎂 [Pumpkin Pie Dump Cake](cakes/pumpkin-pie-dump-cake.md)
 
