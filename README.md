@@ -300,6 +300,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🧁 [Banana Muffins II](muffins/banana-muffins-ii.md)
 - 🧁 [Blueberry Pumpkin Muffins](muffins/blueberry-pumpkin-muffins.md)
 - 🧁 [Costco (Kirkland) Blueberry Muffins](muffins/costco-kirkland-blueberry-muffins.md)
+- 🧁 [Healthy Blueberry Muffins](muffins/healthy-blueberry-muffins.md)
 
 ## Fruit desserts
 
