@@ -232,6 +232,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🧀 [Cheesecake II](cheesecakes/cheesecake-ii.md)
 - 🧀 [Cheesecake Pie (No Baking)](cheesecakes/cheesecake-pie-no-bake.md)
 - 🧀 [Chocolate Peanut Butter Cheesecake](cheesecakes/chocolate-peanut-butter-cheesecake.md)
+- 🧀 [Easy New Year's Cheesecake](cheesecakes/easy-new-years-cheesecake.md)
 
 ## Pies
 
