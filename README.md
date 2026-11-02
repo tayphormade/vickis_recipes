@@ -135,6 +135,10 @@ Recipes converted to Markdown from the family recipe collection.
 - 🥧 [Pumpkin Pie Crumble](pies/pumpkin-pie-crumble.md)
 - 🥧 [Pumpkin Pie with Powdered Pumpkin](pies/pumpkin-pie-with-powdered-pumpkin.md)
 
+## Tarts
+
+- 🍓 [Easy Galette des Rois (French King Cake)](tarts/easy-galette-des-rois.md)
+
 ## Pastries
 
 - 🍰 [Puff Pastry in 5 Minutes](pastries/puff-pastry-in-5-minutes.md)
