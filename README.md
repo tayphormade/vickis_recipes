@@ -309,6 +309,10 @@ Recipes converted to Markdown from the family recipe collection.
 - 🧁 [Rhubarb Muffins](muffins/rhubarb-muffins.md)
 - 🧁 [Sourdough English Muffins](muffins/sourdough-english-muffins.md)
 
+## Scones
+
+- 🫓 [Banana Bread Scones with Brown Sugar Glaze](scones/banana-bread-scones-with-brown-sugar-glaze.md)
+
 ## Fruit desserts
 
 - 🍑 [Pumpkin Pecan Cobbler](fruit-desserts/pumpkin-pecan-cobbler.md)
