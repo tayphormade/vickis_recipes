@@ -209,6 +209,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🎂 [Kugelhopf (Gugelhupf)](cakes/kugelhopf-gugelhupf.md)
 - 🎂 [Mardi Gras King Cake](cakes/mardi-gras-king-cake.md)
 - 🎂 [Molten Lava Cake](cakes/molten-lava-cake.md)
+- 🎂 [New Jersey Crumb Cake](cakes/new-jersey-crumb-cake.md)
 - 🎂 [Peach Cobbler Cupcakes](cakes/peach-cobbler-cupcakes.md)
 - 🎂 [Pumpkin Pie Dump Cake](cakes/pumpkin-pie-dump-cake.md)
 
