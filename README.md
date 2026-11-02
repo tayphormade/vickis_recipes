@@ -78,3 +78,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🥧 [Hula Pie](pies/hula-pie.md)
 - 🥧 [Lemon Icebox Pie](pies/lemon-icebox-pie.md)
 - 🥧 [Pumpkin Pie Crumble](pies/pumpkin-pie-crumble.md)
+
+## Pastries
+
+- 🍰 [Puff Pastry in 5 Minutes](pastries/puff-pastry-in-5-minutes.md)
