@@ -220,6 +220,7 @@ Recipes converted to Markdown from the family recipe collection.
 - 🎂 [Twinkling Good Vanilla Snack Cakes](cakes/twinkling-good-vanilla-snack-cakes.md)
 - 🎂 [Vegan Chocolate Cake](cakes/vegan-chocolate-cake.md)
 - 🎂 [Wacky Cake](cakes/wacky-cake.md)
+- 🎂 [Wild Blueberry Lemon Crumb Cakes](cakes/wild-blueberry-lemon-crumb-cakes.md)
 
 ## Cheesecakes
 
